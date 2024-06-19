@@ -1,5 +1,6 @@
 # Telecom Churn Prediction
 
+
 ## Overview
 
 This project focuses on predicting customer churn for a telecommunications company using various machine learning algorithms. Churn prediction is crucial for businesses to retain customers and maintain steady revenue. In this project, we explore the dataset through extensive exploratory data analysis (EDA), handle data preprocessing, balance the data using SMOTE, perform feature selection, and apply multiple machine learning models to achieve accurate predictions.
